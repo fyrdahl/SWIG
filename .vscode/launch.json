@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "swig-mrd-server",
+            "type": "docker",
+            "request": "launch",
+            "preLaunchTask": "docker-run: debug",
+            "python": {
+                "pathMappings": [
+                    {
+                        "localRoot": "${workspaceFolder}",
+                        "remoteRoot": "/opt/code/python-ismrmrd-server"
+                    }
+                ],
+                "projectType": "general"
+            }
+        }
+    ]
+}

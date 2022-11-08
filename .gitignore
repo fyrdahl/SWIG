@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Deployment files
+*.tar
+*.tar.gz
+*.img
+
+# BART files
+*.cfl
+*.hdr
+
+# Scripts
+*.sh
+!build_and_run.sh
+!deploy.sh

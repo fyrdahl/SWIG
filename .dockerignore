@@ -1,0 +1,10 @@
+docker/**/*
+data/**/*
+.github/**/*
+.vscode
+.git
+.gitattributes
+.gitignore
+*.tar.gz
+*.sh
+README.md
