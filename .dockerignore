@@ -7,4 +7,6 @@ data/**/*
 .gitignore
 *.tar.gz
 *.sh
+*.cfl
+*.hdr
 README.md

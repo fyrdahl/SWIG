@@ -62,7 +62,10 @@ RUN cd /usr/local/lib && \
 RUN python3 -m pip install -U pip && \
     python3 -m pip --no-cache-dir install --no-index -f /wheels pyxb h5py numpy scipy ismrmrd ismrmrd-python-tools
 
-# Add local code
+# Add local code and data
 COPY . /opt/code/python-ismrmrd-server
+ADD https://swigdata.s3.eu-north-1.amazonaws.com/mitral_ip_D200721.h5 /data/mitral_ip.h5
+ADD https://swigdata.s3.eu-north-1.amazonaws.com/mitral_tp_D200721.h5 /data/mitral_tp.h5
+WORKDIR /opt/code/python-ismrmrd-server
 
-CMD ["python3", "/opt/code/python-ismrmrd-server/main.py", "-H=0.0.0.0", "-p=9002", "-l=/tmp/fire.log"]
+CMD ["python3", "main.py", "-H=0.0.0.0", "-p=9002", "-l=/tmp/fire.log"]
