@@ -1,14 +1,11 @@
 # SWIG
-
 FIRE implementation of the reconstruction described in Fyrdahl et. al. Magn Reson Med. 2020 Apr;83(4):1310-1321.
 
 ## Prerequisites
----
 :whale: To run this code, you need to install [Docker](https://docs.docker.com/get-docker/).
 
 
 ## How-to
----
 :zap: To quickly get started, you can run a reconstruction on the example dataset with the command
 ```
 docker compose up
@@ -44,7 +41,6 @@ Likewise, to reconstruct the radial in-plane phase-contrast dataset, run the fol
 ```
 python3 client.py -p 9002 -o /tmp/mitral_ip_recon.h5 -c swig /data/mitral_ip.h5
 ```
-
 
 ## References
 ---
