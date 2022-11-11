@@ -1,0 +1,102 @@
+PMID- 31631403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1522-2594 (Electronic)
+IS  - 0740-3194 (Print)
+IS  - 0740-3194 (Linking)
+VI  - 83
+IP  - 4
+DP  - 2020 Apr
+TI  - Sector-wise golden-angle phase contrast with high temporal resolution for 
+      evaluation of left ventricular diastolic dysfunction.
+PG  - 1310-1321
+LID - 10.1002/mrm.28018 [doi]
+AB  - PURPOSE: To develop a high temporal resolution phase-contrast pulse sequence for 
+      evaluation of diastolic filling patterns, and to evaluate it in comparison to 
+      transthoracic echocardiography. METHODS: A phase-contrast velocity-encoded 
+      gradient-echo pulse sequence was implemented with a sector-wise golden-angle 
+      radial ordering. Acquisitions were optimized for myocardial tissue (TE/TR: 
+      4.4/6.8 ms, flip angle: 8º, velocity encoding: 30 cm/s) and transmitral flow 
+      (TE/TR: 4.0/6.6 ms, flip angle: 20º, velocity encoding: 150 cm/s). Shared 
+      velocity encoding was combined with a sliding-window reconstruction that enabled 
+      up to 250 frames per cardiac cycle. Transmitral and myocardial velocities were 
+      measured in 35 patients. Echocardiographic velocities were obtained with 
+      pulsed-wave Doppler using standard methods. RESULTS: Myocardial velocity showed a 
+      low difference and good correlation between MRI and Doppler (mean ± 95% limits of 
+      agreement 0.9 ± 3.7 cm/s, R(2) = 0.63). Transmitral velocity was underestimated 
+      by MRI (P < .05) with a difference of -11 ± 28 cm/s (R(2) = 0.45). The 
+      early-to-late ratio correlated well (R(2) = 0.66) with a minimal difference (0.03 
+      ± 0.6). Analysis of interobserver and intra-observer variability showed excellent 
+      agreement for all measurements. CONCLUSIONS: The proposed method enables the 
+      acquisition of phase-contrast images during a single breath-hold with a 
+      sufficiently high temporal resolution to match transthoracic echocardiography, 
+      which opens the possibility for many clinically relevant variables to be assessed 
+      by MRI.
+CI  - © 2019 The Authors. Magnetic Resonance in Medicine published by Wiley 
+      Periodicals, Inc. on behalf of International Society for Magnetic Resonance in 
+      Medicine.
+FAU - Fyrdahl, Alexander
+AU  - Fyrdahl A
+AUID- ORCID: 0000-0003-0237-7699
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Ramos, Joao G
+AU  - Ramos JG
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Eriksson, Maria J
+AU  - Eriksson MJ
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Caidahl, Kenneth
+AU  - Caidahl K
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+AD  - Department of Molecular and Clinical Medicine, Institute of Medicine, Sahlgrenska 
+      Academy, University of Gothenburg, Gothenburg, Sweden.
+FAU - Ugander, Martin
+AU  - Ugander M
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+AD  - The Kolling Institute, Royal North Shore Hospital, and Northern Clinical School, 
+      Sydney Medical School, University of Sydney, Sydney, Australia.
+FAU - Sigfridsson, Andreas
+AU  - Sigfridsson A
+AD  - Department of Clinical Physiology, Karolinska University Hospital, and Karolinska 
+      Institutet, Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191021
+TA  - Magn Reson Med
+JT  - Magnetic resonance in medicine
+JID - 8505245
+SB  - IM
+MH  - Blood Flow Velocity
+MH  - Diastole
+MH  - Heart
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - *Ventricular Dysfunction, Left/diagnostic imaging
+MH  - *Ventricular Function, Left
+PMC - PMC6972568
+OTO - NOTNLM
+OT  - diastolic dysfunction
+OT  - golden angle
+OT  - phase contrast
+EDAT- 2019/10/22 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2019/10/22 06:00
+PHST- 2019/06/24 00:00 [received]
+PHST- 2019/09/06 00:00 [revised]
+PHST- 2019/09/06 00:00 [accepted]
+PHST- 2019/10/22 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+PHST- 2019/10/22 06:00 [entrez]
+AID - MRM28018 [pii]
+AID - 10.1002/mrm.28018 [doi]
+PST - ppublish
+SO  - Magn Reson Med. 2020 Apr;83(4):1310-1321. doi: 10.1002/mrm.28018. Epub 2019 Oct 
+      21.

@@ -1,0 +1,22 @@
+%0 Journal Article
+%A Fyrdahl, Alexander
+%A Ramos, Joao G.
+%A Eriksson, Maria J.
+%A Caidahl, Kenneth
+%A Ugander, Martin
+%A Sigfridsson, Andreas
+
+%T Sector-wise golden-angle phase contrast with high temporal resolution for evaluation of left ventricular diastolic dysfunction
+%D 2020
+%J Magnetic Resonance in Medicine
+%P 1310-1321
+%V 83
+%N 4
+%@ 0740-3194
+%R https://doi.org/10.1002/mrm.28018
+%U https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28018
+%X Purpose To develop a high temporal resolution phase-contrast pulse sequence for evaluation of diastolic filling patterns, and to evaluate it in comparison to transthoracic echocardiography. Methods A phase-contrast velocity-encoded gradient-echo pulse sequence was implemented with a sector-wise golden-angle radial ordering. Acquisitions were optimized for myocardial tissue (TE/TR: 4.4/6.8 ms, flip angle: 8º, velocity encoding: 30 cm/s) and transmitral flow (TE/TR: 4.0/6.6 ms, flip angle: 20º, velocity encoding: 150 cm/s). Shared velocity encoding was combined with a sliding-window reconstruction that enabled up to 250 frames per cardiac cycle. Transmitral and myocardial velocities were measured in 35 patients. Echocardiographic velocities were obtained with pulsed-wave Doppler using standard methods. Results Myocardial velocity showed a low difference and good correlation between MRI and Doppler (mean ± 95% limits of agreement 0.9 ± 3.7 cm/s, R2 = 0.63). Transmitral velocity was underestimated by MRI (P < .05) with a difference of −11 ± 28 cm/s (R2 = 0.45). The early-to-late ratio correlated well (R2 = 0.66) with a minimal difference (0.03 ± 0.6). Analysis of interobserver and intra-observer variability showed excellent agreement for all measurements. Conclusions The proposed method enables the acquisition of phase-contrast images during a single breath-hold with a sufficiently high temporal resolution to match transthoracic echocardiography, which opens the possibility for many clinically relevant variables to be assessed by MRI.
+
+
+
+
